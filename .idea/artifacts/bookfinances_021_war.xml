@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bookfinances-021:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>bookfinances-021</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="bookfinances-021.war">
+      <element id="artifact" artifact-name="bookfinances-021:war exploded" />
+    </root>
+  </artifact>
+</component>
